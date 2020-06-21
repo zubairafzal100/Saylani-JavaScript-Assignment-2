@@ -469,6 +469,7 @@
 // // task 14
 // document.write("<h1>The Geometrizer</h1> <br>")
 // function calcCircumference(radius) {
+//     document.write("Radius is: " + radius + "<br>");
 //     var circumference = 2 * 3.142 * radius
 //     document.write("The circumference is " + circumference.toFixed(3) + "<br>");
 //     function calcArea(radius) {
