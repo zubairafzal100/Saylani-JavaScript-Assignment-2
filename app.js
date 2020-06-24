@@ -49,10 +49,10 @@
 // document.write("Message after replacement: " + message);
 
 // // task 9
-// var num = 472;
-// document.write("Value: " + num.toString() + "<br>" + "Type: String" + "<br><br>");
+// var num = "472";
+// document.write("Value: " + num + "<br>" + "Type: " + typeof num + "<br><br>");
 // num = Number(num);
-// document.write("Value: " + num + "<br>" + "Type: Number" + "<br><br>");
+// document.write("Value: " + num + "<br>" + "Type: " + typeof num + "<br><br>");
 
 // // task 10
 // var userInput = prompt("Enter your word");
